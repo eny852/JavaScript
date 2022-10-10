@@ -6,6 +6,6 @@ export class Telo{
     }
 
     printTelo(){
-        return "Telo> "+this.hlava+ "h "+this.ruky+"r "+this.nohy+"n.";
+        return "Telo> "+this.hlava+ "hlava "+this.ruky+"ruky "+this.nohy+"nohy.";
     }
 }
